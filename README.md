@@ -1,10 +1,10 @@
 # Tiệm Trà Nhỏ ☕
 
-## Giới thiệu · About
+**Tiếng Việt** · [English](https://github.com/tiemtranho/tiemtranho/blob/main/README.en.md)
 
-**Tiếng Việt.** Tiệm Trà Nhỏ là trò chơi mô phỏng quản lý một tiệm trà nhỏ. Bạn chuẩn bị nguyên liệu, pha đồ uống theo yêu cầu của từng vị khách và phát triển cửa tiệm qua mỗi ngày. Phiên bản mới đang được chuẩn bị; trong lúc chờ đợi, bạn có thể [chơi phiên bản hiện có trên trình duyệt](https://tiemtranho.com/game).
+## Giới thiệu
 
-**English.** Tiệm Trà Nhỏ is a tea shop management game. Stock ingredients, make each customer's drink to order, and grow your little shop day by day. A new version is in development; meanwhile, you can [play the current browser version](https://tiemtranho.com/game).
+Tiệm Trà Nhỏ là trò chơi mô phỏng quản lý một tiệm trà nhỏ. Bạn chuẩn bị nguyên liệu, pha đồ uống theo yêu cầu của từng vị khách và phát triển cửa tiệm qua mỗi ngày. Phiên bản mới đang được chuẩn bị; trong lúc chờ đợi, bạn có thể [chơi phiên bản hiện có trên trình duyệt](https://tiemtranho.com/game) bằng điện thoại hoặc máy tính mà không cần cài đặt.
 
 ## Cách chơi
 
@@ -16,11 +16,11 @@
 
 Trong trò chơi cũng có nút **Hướng dẫn** để xem các thao tác chi tiết.
 
-## Liên kết chính thức · Official links
+## Liên kết chính thức
 
-- [Trang chủ Tiệm Trà Nhỏ · Official website](https://tiemtranho.com/) — thông tin trò chơi và cập nhật mới.
-- [Chơi Tiệm Trà Nhỏ · Play in your browser](https://tiemtranho.com/game) — chơi trên điện thoại hoặc máy tính, không cần cài đặt.
-- [Discord Tiệm Trà Nhỏ Official](https://discord.gg/jShh4e2vX) — theo dõi thông báo và trao đổi với người chơi.
-- [Email liên hệ chính thức · Official contact](mailto:official@tiemtranho.com) — gửi câu hỏi hoặc góp ý.
+- [Trang chủ Tiệm Trà Nhỏ](https://tiemtranho.com/) — thông tin trò chơi và cập nhật mới.
+- [Chơi Tiệm Trà Nhỏ trên trình duyệt](https://tiemtranho.com/game) — chơi trên điện thoại hoặc máy tính, không cần cài đặt.
+- [Tham gia Discord Tiệm Trà Nhỏ Official](https://discord.gg/jShh4e2vX) — theo dõi thông báo và trao đổi với người chơi.
+- [Liên hệ qua email chính thức](mailto:official@tiemtranho.com) — gửi câu hỏi hoặc góp ý.
 
 Nếu game không tải trong khung trên website hoặc tiến trình không được lưu, hãy dùng nút **Mở trực tiếp** trên [trang chơi Tiệm Trà Nhỏ](https://tiemtranho.com/game) và tiếp tục bằng cùng trình duyệt.
